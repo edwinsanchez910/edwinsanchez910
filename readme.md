@@ -10,3 +10,10 @@ Profesional con sólida base en soporte técnico y procesos, especializado en **
 
 ### 🎯 Mi Objetivo:
 Aportar valor inmediato en equipos de alto rendimiento, asegurando que cada entrega cumpla con los más altos estándares de calidad desde la perspectiva del usuario y del negocio.
+---
+
+## 📫 Contacto:
+
+* **Email:** [esanchez9103@outlook.com](mailto:esanchez9103@outlook.com)
+* **LinkedIn:** [linkedin.com/in/edwin-albeiro-sanchez-blanco](https://www.linkedin.com/in/edwin-albeiro-sanchez-blanco-975530176)
+* **WhatsApp:** [+57 3022205361](https://wa.me/573022205361)
