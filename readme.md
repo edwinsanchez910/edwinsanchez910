@@ -9,6 +9,7 @@ Profesional con sólida base técnica orientado a la calidad y el análisis de d
 * **Mobile Testing:** Pruebas en dispositivos reales y emuladores.
 * **Android Studio:** Entorno de desarrollo, inspección de elementos y gestión de logs ADB.
 * **Diseño UX/UI:** Inspección de prototipos y flujos en **Figma**.
+* **Automtizacion** selenium pytest, pycharm
 
 #### **Análisis de Datos & Servidores**
 * **Bases de Datos:** SQL (PostgreSQL), extracción de métricas y lógica condicional.
