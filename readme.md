@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/edwinsanchez910/edwinsanchez910/main/banner.png" />
+  <img src="https://github.com/edwinsanchez910/edwinsanchez910/blob/main/banner.jpg" />
 </p>
 # Hola, soy Edwin Sánchez 👋
 ## QA Engineer | Especialista en Aseguramiento de Calidad
