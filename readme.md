@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/edwinsanchez910/edwinsanchez910/main/banner.png" />
+</p>
 # Hola, soy Edwin Sánchez 👋
 ## QA Engineer | Especialista en Aseguramiento de Calidad
 Profesional con sólida base técnica orientado a la calidad y el análisis de datos. Especializado en **QA Engineering** y **Análisis de Datos con SQL**, con un enfoque en la detección temprana de fallos y la extracción de insights para la toma de decisiones.
