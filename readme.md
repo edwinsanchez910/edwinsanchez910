@@ -50,3 +50,11 @@ Aportar valor inmediato mediante la automatización inteligente y la optimizaci�
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinsanchez910&theme=dark&hide_border=true" alt="Estadísticas de Edwin" />
 </p>
+
+---
+
+### 📊 Distribución de Lenguajes en mis Proyectos
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edwinsanchez910&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Mis Lenguajes" />
+</p>
