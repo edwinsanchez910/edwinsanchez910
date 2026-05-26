@@ -38,3 +38,11 @@ Aportar valor inmediato mediante la automatización inteligente y la optimizaci�
 * **Email:** [esanchez9103@outlook.com](mailto:esanchez9103@outlook.com)
 * **LinkedIn:** [linkedin.com/in/edwin-albeiro-sanchez-blanco](https://www.linkedin.com/in/edwin-albeiro-sanchez-blanco-975530176)
 * **WhatsApp:** [+57 3022205361](https://wa.me/573022205361)
+
+  ---
+
+### 📊 Mis Lenguajes más Utilizados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinsanchez910&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Lenguajes más usados por Edwin" />
+</p>
