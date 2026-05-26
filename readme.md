@@ -41,8 +41,10 @@ Aportar valor inmediato mediante la automatización inteligente y la optimizaci�
 
   ---
 
+
+
 ### 📊 Mis Lenguajes más Utilizados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinsanchez910&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Lenguajes más usados por Edwin" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=edwinsanchez910&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Lenguajes más usados por Edwin" />
 </p>
